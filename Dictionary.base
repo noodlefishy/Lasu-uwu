@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Words")
+    order:
+      - file.name
+      - aliases
+      - figure of speech
