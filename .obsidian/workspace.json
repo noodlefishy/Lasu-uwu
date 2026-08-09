@@ -11,10 +11,27 @@
             "id": "2f6e8011a828f1c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Phonemes.md",
+                "bFile": "Phonemes.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Phonemes  (Working Tree)"
+            }
+          },
+          {
+            "id": "f8bae461b3e415d9",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Dictionary.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Dictionary"
             }
           }
         ]
@@ -95,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,6 +191,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "9d9b72a4c77b28cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
           }
         ],
         "currentTab": 5
@@ -197,18 +223,18 @@
   },
   "active": "2f6e8011a828f1c8",
   "lastOpenFiles": [
-    "Pronouns.md",
-    "Dictionary.base",
-    "Pronoun verb conjugation.md",
+    "Phonotactics.md",
+    "Phonemes.md",
     "Words/wuku.md",
-    "Untitled.md",
-    "Words/pe.md",
     "Words/wa.md",
     "Words/to.md",
     "Words/pela.md",
+    "Words/pe.md",
     "Examples.md",
-    "Phonemes.md",
-    "Phonotactics.md",
+    "Dictionary.base",
+    "Pronoun verb conjugation.md",
+    "Pronouns.md",
+    "Untitled.md",
     "Conjugation.md",
     "Welcome.md",
     "Words",

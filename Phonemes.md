@@ -6,8 +6,8 @@
 | **Nasal**       | `m`      | `n`      |         |        |         |
 | **Approximant** | `w`      | `l`      | `j`(y)  | `ɹ`(r) |         |
 
-|                  | Front | Centre | Back |
-| ---------------- | ----- | ------ | ---- |
-| **High (close)** | i     |        | u    |
-| **Mid**          | e     |        | o    |
-| **Low (open)**   |       | a      |      |
+|                  | Front       | Centre | Back |
+| ---------------- | ----------- | ------ | ---- |
+| **High (close)** | `i`, `y`(ú) |        | `u`  |
+| **Mid**          | `e`         |        | `o`  |
+| **Low (open)**   |             | `a`    |      |

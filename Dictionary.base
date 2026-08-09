@@ -6,5 +6,5 @@ views:
         - file.inFolder("Words")
     order:
       - file.name
-      - aliases
+      - translations
       - figure of speech
