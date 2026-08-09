@@ -1,11 +1,11 @@
 ---
 translations:
-  - She
+  - He
 figure of speech: pronoun
 related:
-  - "[[sa]]"
-emotive: assertive
+  - "[[wa]]"
+emotive: positive
 tags:
-  - assertive
+  - positive
   - pronoun
 ---

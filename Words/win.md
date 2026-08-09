@@ -3,9 +3,9 @@ translations:
   - He
 figure of speech: pronoun
 related:
-  - "[[ka]]"
-emotive: negative
+  - "[[wa]]"
+emotive: humble
 tags:
-  - negative
+  - humble
   - pronoun
 ---

@@ -1,9 +1,9 @@
 ---
 translations:
-  - I
+  - She
 figure of speech: pronoun
 related:
-  - "[[na]]"
+  - "[[ya]]"
 emotive: positive
 tags:
   - positive

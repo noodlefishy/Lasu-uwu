@@ -1,11 +1,11 @@
 ---
 translations:
-  - He
+  - She
 figure of speech: pronoun
 related:
-  - "[[ka]]"
-emotive: assertive
+  - "[[ya]]"
+emotive: sly
 tags:
-  - assertive
+  - sly
   - pronoun
 ---

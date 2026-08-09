@@ -1,11 +1,11 @@
 ---
 translations:
-  - He
+  - I
 figure of speech: pronoun
 related:
-  - "[[ka]]"
-emotive: humble
+  - "[[na]]"
+emotive: positive
 tags:
-  - humble
+  - positive
   - pronoun
 ---

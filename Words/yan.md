@@ -1,11 +1,11 @@
 ---
 translations:
-  - They (People)
+  - She
 figure of speech: pronoun
 related:
-  - "[[ka]]"
-emotive: neutral
+  - "[[ya]]"
+emotive: assertive
 tags:
-  - neutral
+  - assertive
   - pronoun
 ---

@@ -1,11 +1,11 @@
 ---
 translations:
-  - He
+  - They (People)
 figure of speech: pronoun
 related:
-  - "[[ka]]"
-emotive: positive
+  - "[[wa]]"
+emotive: neutral
 tags:
-  - positive
+  - neutral
   - pronoun
 ---

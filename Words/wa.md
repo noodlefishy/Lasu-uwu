@@ -1,6 +1,10 @@
 ---
 translations:
-  - ship
-  - boat
-figure of speech: noun
+  - He
+figure of speech: pronoun
+related:
+emotive: neutral
+tags:
+  - neutral
+  - pronoun
 ---

@@ -3,9 +3,9 @@ translations:
   - She
 figure of speech: pronoun
 related:
-  - "[[sa]]"
-emotive: sly
+  - "[[ya]]"
+emotive: negative
 tags:
-  - sly
+  - negative
   - pronoun
 ---

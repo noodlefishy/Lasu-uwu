@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3a10a6022c30f12b",
+        "id": "7d7886b2dc5f18d3",
         "type": "tabs",
         "children": [
           {
-            "id": "f4e147ac04eb2967",
+            "id": "269f9867fecb09ef",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/graph.json",
-                "bFile": ".obsidian/graph.json",
-                "aRef": ""
+                "file": "Pronouns.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: graph.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Pronouns"
             }
           }
         ]
@@ -42,8 +42,8 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "showSearch": true,
+                "searchQuery": "wa"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#pronoun",
+                "query": "yi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pronouns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Pronouns.md"
+              },
               "icon": "lucide-info",
               "title": "File properties"
             }
@@ -208,77 +211,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "56429d42f8693c44",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ece4f486da1e4bd2",
-        "type": "window",
-        "children": [
-          {
-            "id": "738017d7ac7dc879",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e87c10d2f3011633",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Pronouns.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Pronouns"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 720,
-        "y": 31,
-        "width": 720,
-        "height": 786,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f4e147ac04eb2967",
+  "active": "269f9867fecb09ef",
   "lastOpenFiles": [
+    "Words/ya.md",
+    "Words/yan.md",
+    "Words/yi.md",
+    "Words/ni.md",
+    "Words/yin.md",
+    "Words/yuin.md",
+    "Words/yun.md",
+    "Words/wa.md",
+    "Words/wan.md",
+    "Words/wi.md",
+    "Words/wuin.md",
+    "Words/wun.md",
+    "Words/wanu.md",
+    "Dictionary.base",
+    "Words/win.md",
+    "Pronouns.md",
+    "Words/wapa.md",
+    "Phonotactics.md",
     "lore.md",
     "Words/ensu.md",
     "Words/nin.md",
     "Words/nan.md",
     "Words/nu.md",
-    "Words/yi.md",
     "Words/tasu.md",
     "Words/eku.md",
-    "Words/kanu.md",
     "Words/na.md",
-    "Dictionary.base",
     "Words.zip",
-    "Words/sa.md",
-    "Words/suin.md",
-    "Words/pela.md",
-    "Words/namu.md",
-    "Words/kun.md",
-    "Words/kin.md",
-    "Words/kan.md",
-    "Words/elun.md",
-    "Words/elin.md",
-    "Words/eli.md",
-    "Words/ele.md",
-    "Words/luin.md",
-    "Words/pan.md",
-    "Words/sin.md",
-    "Words/san.md",
-    "Words/sun.md",
     "create_pronouns.py",
     "You",
     "I",
