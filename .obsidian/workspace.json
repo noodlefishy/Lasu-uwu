@@ -4,37 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "625846496e6ae359",
+        "id": "4e9f460630db9cc9",
         "type": "tabs",
         "children": [
           {
-            "id": "2f6e8011a828f1c8",
+            "id": "6c6f83ad81778ea6",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Phonemes.md",
-                "bFile": "Phonemes.md",
-                "aRef": ""
+                "file": "You/ya.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Phonemes  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "ya"
             }
           },
           {
-            "id": "f8bae461b3e415d9",
+            "id": "d084d1d1e67df8b4",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Dictionary.base",
-                "viewName": "Table"
+                "file": "kun.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Dictionary"
+              "icon": "lucide-file",
+              "title": "kun"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "kun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +200,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "kun.md"
+              },
               "icon": "lucide-info",
               "title": "File properties"
             }
@@ -221,23 +226,76 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f6e8011a828f1c8",
+  "floating": {
+    "id": "56429d42f8693c44",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ece4f486da1e4bd2",
+        "type": "window",
+        "children": [
+          {
+            "id": "738017d7ac7dc879",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e87c10d2f3011633",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Pronouns.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Pronouns"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 720,
+        "y": 31,
+        "width": 720,
+        "height": 786,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "b5c052c16a9a3dd6",
   "lastOpenFiles": [
+    "Pronouns.md",
+    "kun.md",
+    "You/ya.md",
+    "You/ta.md",
+    "You",
+    "Untitled 1.md",
+    "I/unu.md",
     "Phonotactics.md",
     "Phonemes.md",
-    "Words/wuku.md",
-    "Words/wa.md",
-    "Words/to.md",
-    "Words/pela.md",
-    "Words/pe.md",
-    "Examples.md",
+    "I/wi.md",
+    "I/yo.md",
+    "I",
     "Dictionary.base",
+    "Dictionary 2.base",
+    "I/na.md",
+    "I/ran.md",
+    "I/sin.md",
+    "Words/wuku.md",
+    "Words/pela.md",
+    "Words/wa.md",
+    "Words/pe.md",
+    "Words/to.md",
+    "Words",
+    "Examples.md",
     "Pronoun verb conjugation.md",
-    "Pronouns.md",
-    "Untitled.md",
     "Conjugation.md",
     "Welcome.md",
-    "Words",
     "lists/Leipzig-Jakarta List.md",
     "lists/Swadesh 207.md",
     "lists"
