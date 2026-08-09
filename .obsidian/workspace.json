@@ -11,10 +11,14 @@
             "id": "f4e147ac04eb2967",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/graph.json",
+                "bFile": ".obsidian/graph.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: graph.json  (Working Tree)"
             }
           }
         ]
@@ -51,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#pronoun",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -247,6 +251,7 @@
   },
   "active": "f4e147ac04eb2967",
   "lastOpenFiles": [
+    "lore.md",
     "Words/ensu.md",
     "Words/nin.md",
     "Words/nan.md",
@@ -274,7 +279,6 @@
     "Words/sin.md",
     "Words/san.md",
     "Words/sun.md",
-    "Words/si.md",
     "create_pronouns.py",
     "You",
     "I",
