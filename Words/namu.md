@@ -2,7 +2,9 @@
 translations:
 - We (Inclusive)
 figure of speech: pronoun
-related: null
+related: 
+ - '[[na]]'
+ - '[[ensu]]'
 emotive: neutral
 tags:
 - neutral
