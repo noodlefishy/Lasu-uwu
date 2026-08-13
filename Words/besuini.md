@@ -5,9 +5,9 @@ figure of speech: noun
 related:
   - "[[besui]]"
   - "[[lunsal besuini]]"
-emotive: joyful
+emotive: positive
 tags:
-  - joyful
+  - positive
   - noun
 pronunciation: \besyni\
 sentimental meaning: The joyful isolation of the mind wandering during the night.

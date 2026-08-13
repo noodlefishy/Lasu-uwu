@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "daee6ec690ee0bb9",
+        "id": "211901f3ffa16dfe",
         "type": "tabs",
         "children": [
           {
-            "id": "b4683a01ff2f8389",
+            "id": "52a1c0d336675d79",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "Dictionary.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Dictionary"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -198,8 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4683a01ff2f8389",
+  "active": "264b1b48bff4edc9",
   "lastOpenFiles": [
+    "Words/besuini.md",
+    "Dictionary.base",
     "Words/eku.md",
     "Words/besuinu.md",
     "Words/besui.md",
@@ -214,7 +213,6 @@
     "Words/pe-.md",
     "Words/ker.md",
     "Words/lunsal besuini.md",
-    "Words/besuini.md",
     "Words/lunsal.md",
     "Words/sal.md",
     "Pronouns.md",
@@ -223,7 +221,6 @@
     "words new",
     "Ne.md",
     "Scratch pad.md",
-    "Dictionary.base",
     "lists/Leipzig-Jakarta List.md",
     "Words/pan.md",
     "Phonemes.md",
