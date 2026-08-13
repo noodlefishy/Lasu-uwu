@@ -11,10 +11,14 @@
             "id": "3c6e026fa777513e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Words/besere.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "besere"
             }
           }
         ]
@@ -194,23 +198,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c6e026fa777513e",
+  "active": "264b1b48bff4edc9",
   "lastOpenFiles": [
-    "words new/pesili.md",
-    "words new/sili.md",
-    "words new/sil.md",
-    "words new/peker.md",
-    "words new/pe-.md",
-    "words new/ker.md",
-    "words new/lunsal besuini.md",
-    "words new/besuinu.md",
-    "words new/besuini.md",
-    "words new/besui.md",
-    "words new/besere.md",
-    "words new/lunsal.md",
-    "words new/sal.md",
+    "Words/pesili.md",
+    "Words/sili.md",
+    "Words/sil.md",
+    "Words/peker.md",
+    "Words/pe-.md",
+    "Words/ker.md",
+    "Words/lunsal besuini.md",
+    "Words/besuinu.md",
+    "Words/besuini.md",
+    "Words/besui.md",
+    "Words/besere.md",
+    "Words/lunsal.md",
+    "Words/sal.md",
     "Pronouns.md",
-    "words new/lun.md",
+    "Words/lun.md",
     "Untitled.md",
     "words new",
     "Ne.md",
