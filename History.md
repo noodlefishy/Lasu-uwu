@@ -1,4 +1,3 @@
-
 ## Setting & Society
 * **Era:** 12,000 years ago (the agricultural period)
 * **Location:** An archipelago named **`Lasupika`**. (The name has no literal meaning)
