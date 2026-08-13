@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "48e3a0519ba74f7e",
+        "id": "56612523a9780062",
         "type": "tabs",
         "children": [
           {
-            "id": "fcb017cefc07c054",
+            "id": "27fe2eb545ea4002",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,7 +42,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "yi",
+                "query": "han",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a71ab37380105a9b",
@@ -162,7 +161,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -172,25 +170,13 @@
             }
           },
           {
-            "id": "b5c052c16a9a3dd6",
+            "id": "264b1b48bff4edc9",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "9d9b72a4c77b28cc",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Pronouns.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties"
             }
           }
         ],
@@ -212,13 +198,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fcb017cefc07c054",
+  "active": "27fe2eb545ea4002",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Dictionary.base",
+    "lists/Leipzig-Jakarta List.md",
+    "Words/pan.md",
     "Pronouns.md",
-    "Words/nu.md",
-    "Scratch pad.md",
+    "Phonemes.md",
     "Phonotactics.md",
+    "Scratch pad.md",
+    "Untitled.md",
+    "Words/nu.md",
     "Words/tan.md",
     "Words/na.md",
     "Words/elin.md",
@@ -235,12 +225,7 @@
     "Words/wuin.md",
     "Words/wun.md",
     "Words/wanu.md",
-    "Dictionary.base",
     "Words/win.md",
-    "Words/wapa.md",
-    "lore.md",
-    "Words/ensu.md",
-    "Words/nin.md",
     "Words.zip",
     "create_pronouns.py",
     "You",

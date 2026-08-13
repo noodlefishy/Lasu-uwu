@@ -8,4 +8,5 @@ views:
       - file.name
       - translations
       - figure of speech
+      - emotive
     sort: []
