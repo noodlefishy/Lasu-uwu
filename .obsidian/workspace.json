@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4dd5fee23add8b1c",
+        "id": "cbcc8ece741dc0de",
         "type": "tabs",
         "children": [
           {
-            "id": "607e248ba30592d0",
+            "id": "b062ee2dd1c6bd42",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Words/ra.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ra"
             }
           }
         ]
@@ -79,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a71ab37380105a9b",
@@ -195,21 +198,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "607e248ba30592d0",
+  "active": "b062ee2dd1c6bd42",
   "lastOpenFiles": [
+    "History.md",
+    "Pronouns.md",
+    "Words/ra.md",
+    "lists/Swadesh 207.md",
+    "Words/peker.md",
     "Words/Lasupika.md",
     "Lansupikan.md",
     "Dictionary.base",
     "Phonemes.md",
     "Phonotactics.md",
-    "lists/Swadesh 207.md",
     "lists/Leipzig-Jakarta List.md",
     "Words/ele.md",
     "Words/eli.md",
     "Words/lun.md",
     "Words/besui.md",
     "Words/besere.md",
-    "Pronouns.md",
     "Scratch pad.md",
     "Untitled.base",
     "Words/ker.md",
@@ -222,9 +228,6 @@
     "Words/he.md",
     "Words/pela.md",
     "Words/wapa.md",
-    "Words/wuku.md",
-    "Words/besuini.md",
-    "Words/eku.md",
     "apply_adjustments.py",
     "adjustments.json",
     "Words.zip",
