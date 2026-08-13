@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "56612523a9780062",
+        "id": "826d298a7995e5b9",
         "type": "tabs",
         "children": [
           {
-            "id": "27fe2eb545ea4002",
+            "id": "3c6e026fa777513e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scratch pad.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Scratch pad"
+              "title": "New tab"
             }
           }
         ]
@@ -198,34 +194,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27fe2eb545ea4002",
+  "active": "3c6e026fa777513e",
   "lastOpenFiles": [
+    "words new/pesili.md",
+    "words new/sili.md",
+    "words new/sil.md",
+    "words new/peker.md",
+    "words new/pe-.md",
+    "words new/ker.md",
+    "words new/lunsal besuini.md",
+    "words new/besuinu.md",
+    "words new/besuini.md",
+    "words new/besui.md",
+    "words new/besere.md",
+    "words new/lunsal.md",
+    "words new/sal.md",
+    "Pronouns.md",
+    "words new/lun.md",
+    "Untitled.md",
+    "words new",
+    "Ne.md",
+    "Scratch pad.md",
+    "Words/eku.md",
     "Dictionary.base",
     "lists/Leipzig-Jakarta List.md",
     "Words/pan.md",
-    "Pronouns.md",
     "Phonemes.md",
     "Phonotactics.md",
-    "Scratch pad.md",
-    "Untitled.md",
     "Words/nu.md",
     "Words/tan.md",
     "Words/na.md",
-    "Words/elin.md",
-    "Words/ya.md",
-    "Words/yan.md",
-    "Words/yi.md",
-    "Words/ni.md",
-    "Words/yin.md",
-    "Words/yuin.md",
-    "Words/yun.md",
-    "Words/wa.md",
-    "Words/wan.md",
-    "Words/wi.md",
-    "Words/wuin.md",
-    "Words/wun.md",
-    "Words/wanu.md",
-    "Words/win.md",
     "Words.zip",
     "create_pronouns.py",
     "You",

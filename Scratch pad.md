@@ -40,13 +40,10 @@ goodnight = safe dream
 
 
 cut = ker \kɚ\
-share = feker (derived from ker)
-prefix to share = fe- (derived from feker)
+share = peker (derived from ker)
+prefix to share = pe- (derived from peker)
 
 give = sil
 gift/starfish = sili (derived from sili)
 
-friend = fesili (fe-si-li). meaning “I would share a starfish(gift) with you)
-
-
-imagine there was a great sound shift, now all the F's turned into P
+friend = pesili (pe-si-li). meaning “I would share a starfish(gift) with you)
