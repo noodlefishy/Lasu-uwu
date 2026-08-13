@@ -1,11 +1,15 @@
 ---
 translations:
-  - We (Exclusive)
+- We (Exclusive)
 figure of speech: pronoun
 related:
-  - "[[ele]]"
+- '[[ele]]'
 emotive: neutral
 tags:
-  - neutral
-  - pronoun
+- neutral
+- pronoun
+pronunciation: \ensu\
+sentimental meaning: A boundary-setting 'We'. Establishes that the listener is an
+  outsider to the crew or family.
+etymology: Exclusive plural root.
 ---

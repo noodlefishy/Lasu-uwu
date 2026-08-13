@@ -1,9 +1,13 @@
 ---
 translations:
-  - whole
+- whole
 figure of speech: adjective
 related:
-  - "[[lunsal]]"
+- '[[lunsal]]'
 tags:
-  - adjective
+- adjective
+pronunciation: \sal\
+sentimental meaning: The state of being entirely exposed to the world, weather, and
+  ocean.
+etymology: Primitive root.
 ---

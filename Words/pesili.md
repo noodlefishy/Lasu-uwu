@@ -1,10 +1,14 @@
 ---
 translations:
-  - friend
+- friend
 figure of speech: noun
 related:
-  - "[[pe-]]"
-  - "[[sili]]"
+- '[[pe-]]'
+- '[[sili]]'
 tags:
-  - noun
+- noun
+pronunciation: \pesili\
+sentimental meaning: The purest form of connection, untainted by tariffs, trade, or
+  money.
+etymology: pe- (shared) + sili (starfish/gift). Descended from Proto-Lasu uwu *fesili.
 ---

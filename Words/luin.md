@@ -8,4 +8,7 @@ emotive: sly
 tags:
   - sly
   - pronoun
+pronunciation: \lyn\
+sentimental meaning: A secretive reference to hidden cargo, counterfeit currency, or a smuggling boat.
+etymology: Inanimate sly form.
 ---

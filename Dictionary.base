@@ -9,4 +9,10 @@ views:
       - translations
       - figure of speech
       - emotive
+      - related
+      - pronunciation
+      - sentimental meaning
+      - etymology
     sort: []
+    columnSize:
+      note.sentimental meaning: 750

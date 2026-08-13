@@ -1,9 +1,13 @@
 ---
 translations:
-  - give
+- give
 figure of speech: verb
 related:
-  - "[[sili]]"
+- '[[sili]]'
 tags:
-  - verb
+- verb
+pronunciation: \sil\
+sentimental meaning: A profoundly anti-capitalist action in this society; offering
+  something out of pure affection.
+etymology: Primitive root.
 ---

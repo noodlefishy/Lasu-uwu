@@ -1,10 +1,13 @@
 ---
 translations:
-  - cut
+- cut
 figure of speech: verb
-pronunciation: \kɚ\
+pronunciation: "\\k\u025A\\"
 related:
-  - "[[peker]]"
+- '[[peker]]'
 tags:
-  - verb
+- verb
+sentimental meaning: The harsh reality of dividing something, separating what was
+  once whole.
+etymology: Primitive root.
 ---

@@ -1,11 +1,15 @@
 ---
 translations:
-  - He
+- He
 figure of speech: pronoun
 related:
-  - "[[wa]]"
+- '[[wa]]'
 emotive: negative
 tags:
-  - negative
-  - pronoun
+- negative
+- pronoun
+pronunciation: \wun\
+sentimental meaning: A resentful reference to a male, often a cruel tax collector
+  or rival captain.
+etymology: 3rd person male base (w) + negative emotion suffix (un).
 ---

@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "826d298a7995e5b9",
+        "id": "daee6ec690ee0bb9",
         "type": "tabs",
         "children": [
           {
-            "id": "3c6e026fa777513e",
+            "id": "b4683a01ff2f8389",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Words/besere.md",
-                "mode": "source",
-                "source": false
+                "file": "Dictionary.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "besere"
+              "icon": "lucide-table",
+              "title": "Dictionary"
             }
           }
         ]
@@ -83,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a71ab37380105a9b",
@@ -198,8 +198,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "264b1b48bff4edc9",
+  "active": "b4683a01ff2f8389",
   "lastOpenFiles": [
+    "Words/eku.md",
+    "Words/besuinu.md",
+    "Words/besui.md",
+    "Words/besere.md",
+    "apply_adjustments.py",
+    "adjustments.json",
+    "Words.zip",
     "Words/pesili.md",
     "Words/sili.md",
     "Words/sil.md",
@@ -207,10 +214,7 @@
     "Words/pe-.md",
     "Words/ker.md",
     "Words/lunsal besuini.md",
-    "Words/besuinu.md",
     "Words/besuini.md",
-    "Words/besui.md",
-    "Words/besere.md",
     "Words/lunsal.md",
     "Words/sal.md",
     "Pronouns.md",
@@ -219,7 +223,6 @@
     "words new",
     "Ne.md",
     "Scratch pad.md",
-    "Words/eku.md",
     "Dictionary.base",
     "lists/Leipzig-Jakarta List.md",
     "Words/pan.md",
@@ -227,13 +230,10 @@
     "Phonotactics.md",
     "Words/nu.md",
     "Words/tan.md",
-    "Words/na.md",
-    "Words.zip",
     "create_pronouns.py",
     "You",
     "I",
     "Dictionary 2.base",
-    "Words",
-    "lists"
+    "Words"
   ]
 }

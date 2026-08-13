@@ -9,4 +9,7 @@ emotive: joyful
 tags:
   - joyful
   - noun
+pronunciation: \besyni\
+sentimental meaning: The joyful isolation of the mind wandering during the night.
+etymology: besui (illusion) + -ni (joyful suffix).
 ---

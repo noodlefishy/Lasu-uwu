@@ -1,11 +1,15 @@
 ---
 translations:
-  - I
+- I
 figure of speech: pronoun
 related:
-  - "[[na]]"
+- '[[na]]'
 emotive: negative
 tags:
-  - negative
-  - pronoun
+- negative
+- pronoun
+pronunciation: \nu\
+sentimental meaning: A distressed expression of self, carrying the weight of being
+  in debt or experiencing bad weather.
+etymology: 1st person base (n) + negative emotion suffix (u).
 ---

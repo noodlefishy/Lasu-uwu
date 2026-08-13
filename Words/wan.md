@@ -1,11 +1,14 @@
 ---
 translations:
-  - He
+- He
 figure of speech: pronoun
 related:
-  - "[[wa]]"
+- '[[wa]]'
 emotive: assertive
 tags:
-  - assertive
-  - pronoun
+- assertive
+- pronoun
+pronunciation: \wan\
+sentimental meaning: A respectful, fearful reference to a powerful male figure.
+etymology: 3rd person male base (w) + assertive suffix (an).
 ---
